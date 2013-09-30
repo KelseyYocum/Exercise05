@@ -1,0 +1,3 @@
+Exercise05 with Danielle,
+lettercount.py opens a file named on the command line and counts how many times each letter occurs in that file. It then prints those counts to the screen, in alphabetical order.
+We also did it with a custom lowercase function and by using dictionaries.
